@@ -23,5 +23,5 @@ console.log(newNames);
   Expected output:
   
       [1, 3]
-      [John, Alice]
+      ["John", "Alice"]
 */
